@@ -1,0 +1,8 @@
+name: MidnightBounties
+version: 1.0
+main: com.midnightsmp.midnightbounties.MidnightBounties
+api-version: 1.20
+commands:
+  bounty:
+    description: Set and view item bounties on players
+    aliases: [bounties]
